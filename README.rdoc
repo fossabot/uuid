@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fuuid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fuuid?ref=badge_shield)
+
 = UUID Generator
 
 Generates universally unique identifiers (UUIDs) for use in distributed
@@ -127,3 +129,7 @@ Commons Attribution-ShareAlike.
 
 :include: MIT-LICENSE
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fuuid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fuuid?ref=badge_large)
